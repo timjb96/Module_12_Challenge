@@ -7,7 +7,7 @@ These were city, state, and shape of the sighting.
 ## Results
 To do this, we first had to add the new items to the index.html file, using the following 'li' tags. 
 
-![Screen Shot 2022-12-01 at 7 46 47 PM](https://user-images.githubusercontent.com/112847821/205210510-4753ba37-bcef-4536-947c-c53555f7ac8b.png)
+![Screen Shot 2022-12-01 at 11 03 18 PM](https://user-images.githubusercontent.com/112847821/205235072-5fb35c6b-c8ed-4e30-9367-82795bb2da55.png)
 
 This left us with the following set of filter options:
 
